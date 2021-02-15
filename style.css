@@ -1,0 +1,35 @@
+.nabar li {
+  margin-right: 50px;
+}
+
+.nabar {
+  background-color: #dee6f0;
+}
+
+.nabar hr {
+  background-color: #269ea6;
+  margin-top: -20px;
+  padding-top: 1px;
+}
+
+.kontent {
+  background-color: #dee6f0;
+}
+
+.kontent #h1 {
+  color: #269ea6;
+  font-weight: bold;
+}
+
+.tg #tg {
+  margin-top: -40px;
+}
+
+.tg #b {
+  background-color: rgb(244, 249, 253);
+
+}
+
+.gam h1 {
+  color: #25242e;
+}
