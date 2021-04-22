@@ -33,3 +33,44 @@
 .gam h1 {
   color: #25242e;
 }
+
+.gam img {
+  border-radius: 15px;
+  margin-top: 20px;
+}
+
+
+/* Untuk Profile */
+.profile img {
+  width: 350px;
+  height: 450px;
+}
+
+.profile a {
+  background-color: #269EA6;
+  padding: 10px;
+  width: 200px;
+}
+
+.profile {
+  margin-bottom: 120px;
+}
+
+
+.footer {
+  background-color: #dee6f0;
+}
+
+.footer .col {
+  margin-bottom: 50px;
+  margin-top: 100px;
+}
+
+.fo .col {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-align: center;
+  background-color: #25242e;
+  color: aliceblue;
+  padding: 5px;
+}
